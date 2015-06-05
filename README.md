@@ -1,4 +1,6 @@
-# Frescalo executables
+#[Download Windows .exe](https://github.com/BiologicalRecordsCentre/frescalo/raw/master/Frescalo_3a_windows.exe)
+
+#[Download Linux .exe](https://github.com/BiologicalRecordsCentre/frescalo/raw/master/Frescalo_3a_linux.exe)
 
 These are the most up to date executable files used for running the frescalo analysis outlined by Hill (2012). These .exe files are a modified version of [the exe provided with the original analysis](http://www.brc.ac.uk/biblio/frescalo-computer-program-analyse-your-biological-records). Two minor bugs present in the original .exe have been fixed and the limitations imposed by the .exe in terms of the number of sites, sampling periods etc have been increased.
 
